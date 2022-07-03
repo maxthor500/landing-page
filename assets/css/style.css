@@ -138,6 +138,39 @@ h3 {
     font-weight: 700;
 }
 
+#container-join {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.join-us {
+    background: #3882f6;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem;
+    border-radius: .8rem;
+    gap: 2rem;
+}
+
+.join-text {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: 1.2rem;
+    color: #f9faf8;
+}
+
+.join-text p {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#join-btn {
+    border: .1rem solid #f9faf8;
+    cursor: pointer;
+}
+
 small {
     padding: 1rem;
     color:#f9faf8;
