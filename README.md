@@ -71,12 +71,18 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 <img width=300px src="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png" alt="Typography and colors"></a>
 
+**Images**
+
+- [Logo](https://app.logo.com/)
+- [hero-image](https://unsplash.com/photos/Ak5c5VTch5E) by Kenny Eliason
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [HTML5](https://html.com/html5/)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Git Version Control](https://git-scm.com/)
 - [GitHub](https://github.com/)
+- [Unsplash](https://unsplash.com/)
+- [Logo Maker](https://app.logo.com/)
 
 ## ✍️ Authors <a name = "authors"></a>
 
@@ -85,4 +91,4 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Inspiration: Odin Project
-- References: 
+
